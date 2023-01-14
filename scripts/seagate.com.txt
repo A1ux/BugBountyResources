@@ -1,0 +1,8 @@
+seagate.com
+www.seagate.com
+ftp.seagate.com
+branding.seagate.com
+knowledge.seagate.com
+pps0.sv-ext.mailhost.seagate.com
+mailhost.seagate.com
+metrics.seagate.com
